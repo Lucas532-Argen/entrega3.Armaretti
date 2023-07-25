@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: blanchedalmond;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+input[type="number"] {
+    width: 50px;
+}
+
+#btn-calcular {
+    margin-top: 20px;
+}
